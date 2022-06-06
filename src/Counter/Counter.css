@@ -1,0 +1,19 @@
+.counter {
+  padding: 10px;
+  border: 1px #aaa solid;
+  width: fit-content;
+}
+
+.counter > * {
+  display: inline-block;
+  margin: 6px;
+}
+
+.counter button {
+  padding: 5px 15px;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(10, 134, 41);
+  color: white;
+  border-radius: 2px;
+}

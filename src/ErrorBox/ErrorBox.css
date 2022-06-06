@@ -1,0 +1,17 @@
+.error-box {
+  background-color: #f2dedf;
+  padding: 20px 30px;
+  border-radius: 5px;
+  border: #ab4243 1px solid;
+  color: #ab4243;
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.error-box svg {
+  max-height: 40px;
+  max-width: 40px;
+  margin-right: 10px;
+}
